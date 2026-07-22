@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+telebot
+aiosqlite
+Flask
